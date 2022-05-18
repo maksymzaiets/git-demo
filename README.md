@@ -1,4 +1,3 @@
 # git-demo
 
-some content
-more content
+merge content
